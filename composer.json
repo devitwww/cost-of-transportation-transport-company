@@ -1,0 +1,26 @@
+{
+  "name": "amirovn77/cost-of-transportation-transport-company",
+  "type": "library",
+  "version": "1.0.0",
+  "description": "Стоимость перевозки 8 транспортных компаний, Главдоставка, Кит, ПЭК, ЦАП, ЖелДорЭкспедиция, Деловые линии, Vozovoz, dpd.",
+  "keywords": ["Главдоставка", "Кит", "ПЭК", "ЦАП", "ЖелДорЭкспедиция", "Деловые линии", "Vozovoz", "dpd"],
+  "homepage": "https://github.com/amirovn77/cost-of-transportation-transport-company",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nariman",
+      "email": "amirovn77@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Amirovn77\\CostOfTransportationTransportCompany\\": ""
+    }
+  },
+  "prefer-stable": true,
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.6.0"
+  }
+}
