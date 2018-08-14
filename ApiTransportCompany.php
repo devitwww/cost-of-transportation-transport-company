@@ -1,6 +1,6 @@
 <?php
 
-namespace Amirovn77\CostOfTransportationTransportCompany;
+namespace Amirovn\CostOfTransportationTransportCompany;
 
 class ApiTransportCompany
 {
