@@ -4,12 +4,12 @@
   "version": "1.0.0",
   "description": "Стоимость перевозки 8 транспортных компаний, Главдоставка, Кит, ПЭК, ЦАП, ЖелДорЭкспедиция, Деловые линии, Vozovoz, dpd.",
   "keywords": ["Главдоставка", "Кит", "ПЭК", "ЦАП", "ЖелДорЭкспедиция", "Деловые линии", "Vozovoz", "dpd"],
-  "homepage": "https://github.com/amirovn/cost-of-transportation-transport-company",
+  "homepage": "https://github.com/tpwwswww/cost-of-transportation-transport-company",
   "license": "MIT",
   "authors": [
     {
       "name": "Nariman",
-      "email": "tpwwswwww@gmail.com",
+      "email": "tpwwswww@gmail.com",
       "role": "Developer"
     }
   ],
