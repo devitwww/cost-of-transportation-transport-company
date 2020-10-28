@@ -4,7 +4,7 @@
 
 ## Установка
 ```
-composer require amirovn/cost-of-transportation-transport-company
+composer require tpwwswww/cost-of-transportation-transport-company
 
 ```
 
@@ -17,7 +17,7 @@ composer require amirovn/cost-of-transportation-transport-company
 
 require_once "vendor/autoload.php";
 
-$api = new Amirovn\CostOfTransportationTransportCompany\ApiTransportCompany();
+$api = new Tpwwswww\CostOfTransportationTransportCompany\ApiTransportCompany();
 
 $from = 'Краснодар'; // Откуда
 $to = 'Москва'; // Куда
