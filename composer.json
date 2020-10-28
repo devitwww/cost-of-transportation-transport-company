@@ -1,5 +1,5 @@
 {
-  "name": "amirovn/cost-of-transportation-transport-company",
+  "name": "tpwwswww/cost-of-transportation-transport-company",
   "type": "library",
   "version": "1.0.0",
   "description": "Стоимость перевозки 8 транспортных компаний, Главдоставка, Кит, ПЭК, ЦАП, ЖелДорЭкспедиция, Деловые линии, Vozovoz, dpd.",
@@ -9,13 +9,13 @@
   "authors": [
     {
       "name": "Nariman",
-      "email": "amirovn77@gmail.com",
+      "email": "tpwwswwww@gmail.com",
       "role": "Developer"
     }
   ],
   "autoload": {
     "psr-4": {
-      "Amirovn\\CostOfTransportationTransportCompany\\": ""
+      "Tpwwswww\\CostOfTransportationTransportCompany\\": ""
     }
   },
   "prefer-stable": true,
